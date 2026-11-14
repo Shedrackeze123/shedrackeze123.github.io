@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shedrackeze123.github.io/sitemap.xml
